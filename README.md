@@ -5,5 +5,5 @@
 </div>
 <div class="box">
 	<img src="https://github-readme-stats.vercel.app/api?username=Yeongjae-Shin&count_private=true&show_icons=true">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yeongjae-Shin">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yeongjae-Shin&layout=compact">
 </div>
