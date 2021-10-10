@@ -1,8 +1,8 @@
-![I am FrontEnd Developer @shogong](https://raw.githubusercontent.com/Yeongjae-Shin/Yeongjae-Shin/main/header.svg)
+<!-- ![I am FrontEnd Developer @shogong](https://raw.githubusercontent.com/Yeongjae-Shin/Yeongjae-Shin/main/header.svg) -->
 <hr>
 
 ### My Github Stats
-<p style="display: flex;">
+<p>
 <a href="#">
   <img src="https://github-readme-stats.vercel.app/api?username=Yeongjae-Shin&theme=react&show_icons=true" height="180px">
 </a>
