@@ -5,10 +5,10 @@
 
 <div align="center">
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api?username=Yeongjae-Shin&theme=react&show_icons=true" height="180px">
+    <img src="https://github-readme-stats.vercel.app/api?username=Yeongjae-Shin&theme=react&show_icons=true" height="200px">
   </a>
   <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yeongjae-Shin&theme=react&exclude_repo=resume,Yeongjae-Shin.github.io" height="180px">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yeongjae-Shin&theme=react&exclude_repo=resume,Yeongjae-Shin.github.io" height="200px">
   </a>
 </div>
 
