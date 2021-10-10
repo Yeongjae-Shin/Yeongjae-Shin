@@ -2,7 +2,7 @@
 <hr>
 
 ### My Github Stats
-<p align="center">
+<p>
 <a href="#">
   <img src="https://github-readme-stats.vercel.app/api?username=Yeongjae-Shin&theme=react&show_icons=true" height="180px">
 </a>
